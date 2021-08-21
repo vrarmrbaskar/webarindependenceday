@@ -1,2 +1,0 @@
-# webarindependenceday
- Indian Independence webAR
